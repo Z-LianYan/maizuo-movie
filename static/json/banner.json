@@ -1,0 +1,33 @@
+[
+	{
+		"id": 711,
+		"name": "新卖座卡公告",
+		"url": "https://m.maizuo.com/act/active/1282  ",
+		"imageUrl": "https://pic.maizuo.com/usr/movie/cccdb0b1ef2af8b7d56f3c962e2c5284.jpg",
+		"weight": 1
+	}, {
+		"id": 712,
+		"name": "8.7-8.20一出好戏",
+		"url": "https://m.maizuo.com/v4/?co=maizuo#!/film/4266https://m.maizuo.com/v4/?co=maizuo#!/film/4307",
+		"imageUrl": "https://pic.maizuo.com/h5PicUpload/37a957a59a1dbe1d068cae341d10a6d7.jpg",
+		"weight": 1
+	}, {
+		"id": 713,
+		"name": "8.7-8.14 小偷家族",
+		"url": "https://m.maizuo.com/v4/?co=maizuo#!/film/4304",
+		"imageUrl": "https://pic.maizuo.com/h5PicUpload/a44498a25b06455d8cfc5fdc4d5a5cdc.jpg",
+		"weight": 2
+	}, {
+		"id": 714,
+		"name": "8.7-8.14 小偷家族",
+		"url": "https://m.maizuo.com/v4/?co=maizuo#!/film/4304",
+		"imageUrl": "https://pic.maizuo.com/usr/movie/45909063a83bb86af9b2630ecb03c5b3.jpg",
+		"weight": 2
+	}, {
+		"id": 715,
+		"name": "8.7-8.14 小偷家族",
+		"url": "https://m.maizuo.com/v4/?co=maizuo#!/film/4304",
+		"imageUrl": "https://pic.maizuo.com/usr/movie/32f75527000554c003b9bccadce37b98.jpg",
+		"weight": 2
+	}
+]

@@ -1,0 +1,27 @@
+
+
+.back-top-box {
+
+    position: fixed;
+    right: 15px;bottom: 15px;
+
+    .back-top {
+       width: 60px;height: 60px;
+       border-radius: 50%;
+       background: #333;
+       color: #fff;
+       display: flex;justify-content: center;align-items: 
+       center;
+    }
+
+    &[size = small] {
+        .back-top{
+            width: 40px;height: 40px;
+        }
+    }
+    &[size = large] {
+        .back-top{
+            width: 80px;height: 80px;
+        }
+    }
+}
