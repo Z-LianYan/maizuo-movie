@@ -33,6 +33,8 @@ export default {
             this.banners = res.data.data.billboards
             Vue.nextTick(() => {
                 new Swiper('.app-banner', {
+                	autoplay:true,
+                	loop:true,
                     pagination: {
                         el: '.swiper-pagination'
                     },
