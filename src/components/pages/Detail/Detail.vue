@@ -3,7 +3,7 @@
         <div class="img-background img-box">
             <img width="100%" :src="film.cover.origin" alt="">
         </div>
-        {{film.name}}
+        {{film}}
     </div>
 </template>
 <script>

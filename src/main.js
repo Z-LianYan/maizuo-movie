@@ -20,9 +20,9 @@ import './stylesheets/main.scss';
 
 
 //element-ui
-// import ElementUI from 'element-ui';
-// import 'element-ui/lib/theme-chalk/index.css';
-// Vue.use(ElementUI)
+//import ElementUI from 'element-ui';
+//import 'element-ui/lib/theme-chalk/index.css';
+//Vue.use(ElementUI)
 
 //mint-ui
 import { Lazyload, InfiniteScroll, Button, Tabbar  } from 'mint-ui';

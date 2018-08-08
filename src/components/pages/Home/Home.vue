@@ -27,11 +27,8 @@ export default {
   components: {
       AppBanner, MovieBox
   },
-  activated () {
-  	console.log('Home is activated')
-  },
-  deactivated () {
-  	console.log('Home is deactivated')
+  mounted () {
+
   }
 }
 </script>

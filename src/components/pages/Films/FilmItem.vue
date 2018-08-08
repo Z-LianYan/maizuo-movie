@@ -11,8 +11,7 @@
             <div class="desc">{{film.intro}}</div>
             <div v-if = "type !== 'now-playing'" class="time">
                 {{film.premiereAt | premiere}}上映
-
-
+                
                 {{film.premiereAt | day}}
 
             </div>

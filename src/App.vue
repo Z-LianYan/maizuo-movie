@@ -3,10 +3,7 @@
     
     <app-header></app-header>
     
-    <keep-alive exclude = "Films">
-    	<router-view></router-view>
-    </keep-alive>
-    
+    <router-view></router-view>
     
   </div>
 </template>

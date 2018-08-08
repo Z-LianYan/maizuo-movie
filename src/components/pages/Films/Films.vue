@@ -6,8 +6,6 @@
         ></film-nav>
 
         <films-box :type = " type "></films-box>
-
-
         <back-top
             size = "small"
             v-back-top:click
@@ -28,6 +26,7 @@ export default {
       }
   },
   methods: {
+  	
       changeType (type) {
           this.type = type
       }
@@ -41,7 +40,7 @@ export default {
         background: #f9f9f9;
         min-height: 100vh;
         padding-left:15px; 
-        padding-right:15px; 
+        padding-right:15px;  
     }
 </style>
 

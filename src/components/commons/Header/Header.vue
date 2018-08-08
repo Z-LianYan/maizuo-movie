@@ -9,7 +9,7 @@
                 <div class="title">{{title}}</div>
             </div>
             <div class="right">
-                <div class="city">北京</div>
+                <div class="city">广州</div>
                 <div class="user" v-back-top:touchstart>
                     <i class="fa fa-user-o"></i>
                 </div>
@@ -50,8 +50,6 @@ export default {
             case 'not-found': title = '404';break;
             case 'goods': title = '商品列表';break;
             case 'car': title = '购物车';break;
-            case 'mine': title = '个人中心';break;
-            case 'login': title = '登陆';break;
             // case 'detail': title = to.query.name;break;
         }
         this.title = title
