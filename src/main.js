@@ -15,7 +15,6 @@ import './modules/directive'
 import 'animate.css'
 
 //引入全局scss文件
-//在webpack中有一个特性，一切皆模块，在这里，webpack检测到scss文件之后会编译之后再将其拿出去的
 import './stylesheets/main.scss';
 
 

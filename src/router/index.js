@@ -1,5 +1,5 @@
 
-// 先去下载vue-router全局插件  
+
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 
