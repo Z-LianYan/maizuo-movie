@@ -61,7 +61,6 @@ new Vue({
   components: { App },
   router,
   store,
-  //相当于将el直接替换成app组件
   template: '<App/>'
 })
 

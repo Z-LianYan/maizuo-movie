@@ -4,8 +4,7 @@ import {
 } from './const'
 
 export default {
-	initCars ({commit}) {
-		//在这里，从后端数据库里取出购物车信息		
+	initCars ({commit}) {		
 		setTimeout (() => {
 			let cars = getCars();	
 			commit(SYNC_UPDATE, cars)
@@ -27,7 +26,7 @@ export default {
 			}	
 			
 			localStorage.cars = JSON.stringify(cars)
-			//到这里，数据库已经更新了，做一个同步
+			//数据库已经更新了，做一个同步
 			commit (SYNC_UPDATE,cars)
 			
 			
